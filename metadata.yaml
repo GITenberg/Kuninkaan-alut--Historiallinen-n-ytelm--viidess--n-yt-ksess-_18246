@@ -1,0 +1,28 @@
+_repo: Kuninkaan-alut--Historiallinen-n-ytelm--viidess--n-yt-ksess-_18246
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: 'Translation of: Kongs-Emnerne'
+gutenberg_issued: '2006-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18246'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- History -- Haakon Gamli, 1217-1263 -- Drama'
+- !lcsh 'Norwegian drama'
+- !lcc 'PT'
+title: 'Kuninkaan-alut: Historiallinen näytelmä viidessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/18246
