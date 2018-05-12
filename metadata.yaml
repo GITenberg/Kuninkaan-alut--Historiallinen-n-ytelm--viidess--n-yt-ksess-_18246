@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: 'Translation of: Kongs-Emnerne'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18246#Kuninkaan-alut--Historiallinen-n-ytelm--viidess--n-yt-ksess-
 gutenberg_issued: '2006-04-24'
 gutenberg_type: Text
 identifiers:
